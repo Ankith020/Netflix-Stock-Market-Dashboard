@@ -11,14 +11,14 @@ Developed an interactive Power BI dashboard to analyze Netflix stock market data
 •	Detailed data table for drilling down into stock records.
 •	Custom dark-themed dashboard for improved visualization.
 
-3.# Tools Used
+3. # Tools Used
 
 •	Power BI
 •	Power Query
 •	DAX
 •	Microsoft Excel (Dataset)
 
-4.# Key Insights
+4 .# Key Insights
 
 •	Analysed historical stock price trends over multiple years.
 •	Compared stock performance across different time periods.
