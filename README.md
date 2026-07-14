@@ -26,4 +26,7 @@ Developed an interactive Power BI dashboard to analyze Netflix stock market data
 
 5. Screenshots
 
+   https://github.com/Ankith020/Netflix-Stock-Market-Dashboard/blob/main/Screenshot%20(61).png
+   
+
 
